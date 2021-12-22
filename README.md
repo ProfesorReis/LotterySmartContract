@@ -1,1 +1,1 @@
-# LotterySmartContract
+# This smart contract 
